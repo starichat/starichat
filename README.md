@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**starichat/starichat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm starichat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Computer Engineer.
+- 🌱 Currently working in WuHan, China.
+- 💬 Ask me about Golang, Java and C/C++
+
+
+### 关于我
+- [个人网站](http://lazylazystar.top/)
+
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [starichat](https://github.com/starichat)
